@@ -1,0 +1,25 @@
+"scripts": {
+  "start": "node server.js" // nebo jakýkoli jiný příkaz, který spouští vaši aplikaci
+}
+
+
+
+{
+  "dependencies": {
+    "express": "^x.x.x", // zkontrolujte, zda je express zahrnut
+    ...
+  }
+}
+
+{
+  "name": "sexy-dates",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
